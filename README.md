@@ -1,2 +1,1 @@
-# pubsub people adder
 # basicPeopleAdder
