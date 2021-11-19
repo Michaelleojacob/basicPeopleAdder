@@ -1,8 +1,8 @@
 # basicPeopleAdder
 
-# live app: https://michaelleojacob.github.io/RerenderPeopleAdder/
+# live app: https://michaelleojacob.github.io/basicPeopleAdder/
 
-# repo: https://github.com/Michaelleojacob/RerenderPeopleAdder
+# repo: https://github.com/Michaelleojacob/basicPeopleAdder/
 
 ## This is a practice app where I successfully allow the user to add and delete users from an array. Each time an action happens, both the array and the dom update.
 
